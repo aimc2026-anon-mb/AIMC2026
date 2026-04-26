@@ -117,7 +117,7 @@ ipython_config.py
 .pdm-python
 .pdm-build/
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+# PEP 582; used by Python environment managers such as pyflow and pdm.
 __pypackages__/
 
 # Celery stuff
@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# OS metadata
+.DS_Store
+**/.DS_Store
+
+# Article source and local render outputs are intentionally private.
+/article/
+/comfyui_output/
+
+# Preserved nested Git metadata from earlier local work.
+/.nested_git_backup/

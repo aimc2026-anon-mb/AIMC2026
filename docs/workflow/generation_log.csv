@@ -1,0 +1,16 @@
+id,prompt,seed,cfg,steps,sampler,scheduler,denoise,duration_s,notes
+E1_a,"bowed metal resonance, slow",945199748506673,7.0,50,dpmpp_3m_sde,exponential,1.00,47.6,
+E1_b,"bowed metal resonance, slow",65954089677432,7.0,50,dpmpp_3m_sde,exponential,1.00,47.6,
+E1_c,"bowed metal resonance, slow",266602480997450,7.0,50,dpmpp_3m_sde,exponential,1.00,47.6,
+E2_a,fragile entropy collapse,910371586359239,12.0,80,dpmpp_3m_sde_gpu,exponential,1.00,47.6,
+E2_b,fragile entropy collapse,672897871840991,12.0,80,dpmpp_3m_sde_gpu,exponential,1.00,47.6,
+E2_c,fragile entropy collapse,532400678751188,12.0,80,dpmpp_3m_sde_gpu,exponential,1.00,47.6,
+E3_a,,350162288266667,0.0,50,dpmpp_3m_sde,exponential,1.00,47.6,unconditioned
+E3_b,,170414901664520,0.0,50,dpmpp_3m_sde,exponential,1.00,47.6,unconditioned
+E3_c,,522997104932121,0.0,50,dpmpp_3m_sde,exponential,1.00,47.6,unconditioned
+E4_a,cosmic infoldings,954146274892282,8.0,80,euler_ancestral,karras,0.40,47.6,
+E4_b,cosmic infoldings,859339797067291,8.0,80,euler_ancestral,karras,0.40,47.6,
+E4_c,cosmic infoldings,1042566732749008,8.0,80,euler_ancestral,karras,0.40,47.6,
+E5_a,fragile entropy collapse,703599444041953,12.0,80,heun,karras,0.30,47.6,combined
+E5_b,fragile entropy collapse,673898996843689,12.0,80,heun,karras,0.30,47.6,combined
+E5_c,fragile entropy collapse,1095723835846810,12.0,80,heun,karras,0.30,47.6,combined

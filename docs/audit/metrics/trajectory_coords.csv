@@ -1,0 +1,373 @@
+family_id,family_label,prompt_id,prompt_label,prompt_slot,seed,seed_slot,denoise,local_filename,pc1,pc2
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,936466550673771,1,1.0,descriptive__descriptive-01__dn100__slot01__seed936466550673771.flac,-0.5149960517883301,-0.27799686789512634
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,936466550673771,1,0.7,descriptive__descriptive-01__dn070__slot01__seed936466550673771.flac,-0.6375059485435486,-0.29937779903411865
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,936466550673771,1,0.55,descriptive__descriptive-01__dn055__slot01__seed936466550673771.flac,-0.5329857468605042,-0.31275609135627747
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,936466550673771,1,0.4,descriptive__descriptive-01__dn040__slot01__seed936466550673771.flac,-0.4385805130004883,-0.3358284533023834
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,937150080021621,2,1.0,descriptive__descriptive-01__dn100__slot02__seed937150080021621.flac,-0.6325327754020691,-0.3335312306880951
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,937150080021621,2,0.7,descriptive__descriptive-01__dn070__slot02__seed937150080021621.flac,-0.5936660766601562,-0.3602273166179657
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,937150080021621,2,0.55,descriptive__descriptive-01__dn055__slot02__seed937150080021621.flac,-0.5768435597419739,-0.3832964599132538
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,937150080021621,2,0.4,descriptive__descriptive-01__dn040__slot02__seed937150080021621.flac,-0.5837469100952148,-0.2655695676803589
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,713301688808005,3,1.0,descriptive__descriptive-01__dn100__slot03__seed713301688808005.flac,-0.5703305006027222,-0.2540060877799988
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,713301688808005,3,0.7,descriptive__descriptive-01__dn070__slot03__seed713301688808005.flac,-0.5808848738670349,-0.4034917652606964
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,713301688808005,3,0.55,descriptive__descriptive-01__dn055__slot03__seed713301688808005.flac,-0.6065393686294556,-0.30464956164360046
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,713301688808005,3,0.4,descriptive__descriptive-01__dn040__slot03__seed713301688808005.flac,-0.2228744924068451,-0.32281291484832764
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,417441241092408,4,1.0,descriptive__descriptive-01__dn100__slot04__seed417441241092408.flac,-0.6598123908042908,-0.3520493507385254
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,417441241092408,4,0.7,descriptive__descriptive-01__dn070__slot04__seed417441241092408.flac,-0.6752088665962219,-0.3719002902507782
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,417441241092408,4,0.55,descriptive__descriptive-01__dn055__slot04__seed417441241092408.flac,-0.5362032055854797,-0.2676258683204651
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,417441241092408,4,0.4,descriptive__descriptive-01__dn040__slot04__seed417441241092408.flac,-0.39439135789871216,-0.34814393520355225
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,660458076140203,5,1.0,descriptive__descriptive-01__dn100__slot05__seed660458076140203.flac,-0.623304009437561,-0.2883743941783905
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,660458076140203,5,0.7,descriptive__descriptive-01__dn070__slot05__seed660458076140203.flac,-0.5327669382095337,-0.2126832902431488
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,660458076140203,5,0.55,descriptive__descriptive-01__dn055__slot05__seed660458076140203.flac,-0.3182424008846283,-0.2800743877887726
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,660458076140203,5,0.4,descriptive__descriptive-01__dn040__slot05__seed660458076140203.flac,0.19945628941059113,-0.2760986089706421
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,873534913822354,6,1.0,descriptive__descriptive-01__dn100__slot06__seed873534913822354.flac,-0.5346569418907166,-0.2921547591686249
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,873534913822354,6,0.7,descriptive__descriptive-01__dn070__slot06__seed873534913822354.flac,-0.6496326327323914,-0.26790377497673035
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,873534913822354,6,0.55,descriptive__descriptive-01__dn055__slot06__seed873534913822354.flac,-0.507195234298706,-0.39748629927635193
+descriptive,Descriptive,descriptive-01,"Nature ambience, birds",1,873534913822354,6,0.4,descriptive__descriptive-01__dn040__slot06__seed873534913822354.flac,-0.1728277951478958,-0.4046427607536316
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,467779948461085,1,1.0,descriptive__descriptive-02__dn100__slot01__seed467779948461085.flac,-0.3540140390396118,-0.2277945876121521
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,467779948461085,1,0.7,descriptive__descriptive-02__dn070__slot01__seed467779948461085.flac,-0.14430321753025055,-0.2700023949146271
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,467779948461085,1,0.55,descriptive__descriptive-02__dn055__slot01__seed467779948461085.flac,-0.2228265404701233,-0.2414620965719223
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,467779948461085,1,0.4,descriptive__descriptive-02__dn040__slot01__seed467779948461085.flac,-0.4472680985927582,-0.1661253571510315
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,758282017860344,2,1.0,descriptive__descriptive-02__dn100__slot02__seed758282017860344.flac,-0.33073365688323975,-0.24453121423721313
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,758282017860344,2,0.7,descriptive__descriptive-02__dn070__slot02__seed758282017860344.flac,-0.30084165930747986,-0.23799046874046326
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,758282017860344,2,0.55,descriptive__descriptive-02__dn055__slot02__seed758282017860344.flac,-0.28992098569869995,-0.2964976727962494
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,758282017860344,2,0.4,descriptive__descriptive-02__dn040__slot02__seed758282017860344.flac,0.14432351291179657,-0.22603844106197357
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,510094380489408,3,1.0,descriptive__descriptive-02__dn100__slot03__seed510094380489408.flac,-0.26873913407325745,-0.20652925968170166
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,510094380489408,3,0.7,descriptive__descriptive-02__dn070__slot03__seed510094380489408.flac,-0.22130398452281952,-0.2570214867591858
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,510094380489408,3,0.55,descriptive__descriptive-02__dn055__slot03__seed510094380489408.flac,-0.01991955004632473,-0.28913235664367676
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,510094380489408,3,0.4,descriptive__descriptive-02__dn040__slot03__seed510094380489408.flac,-0.13753224909305573,-0.1775704026222229
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,959546376485544,4,1.0,descriptive__descriptive-02__dn100__slot04__seed959546376485544.flac,-0.17151011526584625,-0.13638891279697418
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,959546376485544,4,0.7,descriptive__descriptive-02__dn070__slot04__seed959546376485544.flac,-0.32736682891845703,-0.1636117398738861
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,959546376485544,4,0.55,descriptive__descriptive-02__dn055__slot04__seed959546376485544.flac,-0.21431748569011688,-0.16394974291324615
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,959546376485544,4,0.4,descriptive__descriptive-02__dn040__slot04__seed959546376485544.flac,-0.05901443958282471,-0.15952642261981964
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,844919671624663,5,1.0,descriptive__descriptive-02__dn100__slot05__seed844919671624663.flac,-0.2762131989002228,-0.25676217675209045
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,844919671624663,5,0.7,descriptive__descriptive-02__dn070__slot05__seed844919671624663.flac,-0.1813792735338211,-0.23353983461856842
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,844919671624663,5,0.55,descriptive__descriptive-02__dn055__slot05__seed844919671624663.flac,-0.15490056574344635,-0.2512836158275604
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,844919671624663,5,0.4,descriptive__descriptive-02__dn040__slot05__seed844919671624663.flac,-0.17185284197330475,-0.22184757888317108
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,754560758249331,6,1.0,descriptive__descriptive-02__dn100__slot06__seed754560758249331.flac,-0.187460795044899,-0.18430832028388977
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,754560758249331,6,0.7,descriptive__descriptive-02__dn070__slot06__seed754560758249331.flac,-0.24807463586330414,-0.23622620105743408
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,754560758249331,6,0.55,descriptive__descriptive-02__dn055__slot06__seed754560758249331.flac,-0.04329324886202812,-0.2958281934261322
+descriptive,Descriptive,descriptive-02,"City soundscape, traffic, noise",2,754560758249331,6,0.4,descriptive__descriptive-02__dn040__slot06__seed754560758249331.flac,-0.2770954966545105,-0.2978939116001129
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,549384717397659,1,1.0,descriptive__descriptive-03__dn100__slot01__seed549384717397659.flac,-0.10526233911514282,0.25930503010749817
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,549384717397659,1,0.7,descriptive__descriptive-03__dn070__slot01__seed549384717397659.flac,-0.41007834672927856,0.5046008825302124
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,549384717397659,1,0.55,descriptive__descriptive-03__dn055__slot01__seed549384717397659.flac,-0.1722264438867569,0.15906605124473572
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,549384717397659,1,0.4,descriptive__descriptive-03__dn040__slot01__seed549384717397659.flac,-0.14650315046310425,0.3198850750923157
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,104602413208802,2,1.0,descriptive__descriptive-03__dn100__slot02__seed104602413208802.flac,-0.23456522822380066,0.3413817584514618
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,104602413208802,2,0.7,descriptive__descriptive-03__dn070__slot02__seed104602413208802.flac,-0.031745102256536484,0.15993328392505646
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,104602413208802,2,0.55,descriptive__descriptive-03__dn055__slot02__seed104602413208802.flac,0.025018582120537758,0.3330972492694855
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,104602413208802,2,0.4,descriptive__descriptive-03__dn040__slot02__seed104602413208802.flac,0.24239684641361237,0.22708824276924133
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,247385422446336,3,1.0,descriptive__descriptive-03__dn100__slot03__seed247385422446336.flac,-0.3808542788028717,0.3392997980117798
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,247385422446336,3,0.7,descriptive__descriptive-03__dn070__slot03__seed247385422446336.flac,-0.11342203617095947,0.1508624106645584
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,247385422446336,3,0.55,descriptive__descriptive-03__dn055__slot03__seed247385422446336.flac,-0.1727244257926941,0.20095762610435486
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,247385422446336,3,0.4,descriptive__descriptive-03__dn040__slot03__seed247385422446336.flac,-0.05743083357810974,0.0014843035023659468
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,226397792656353,4,1.0,descriptive__descriptive-03__dn100__slot04__seed226397792656353.flac,-0.0610872246325016,0.44602811336517334
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,226397792656353,4,0.7,descriptive__descriptive-03__dn070__slot04__seed226397792656353.flac,-0.31620630621910095,0.29537102580070496
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,226397792656353,4,0.55,descriptive__descriptive-03__dn055__slot04__seed226397792656353.flac,-0.2690069377422333,0.43863970041275024
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,226397792656353,4,0.4,descriptive__descriptive-03__dn040__slot04__seed226397792656353.flac,0.0734516903758049,-0.20753975212574005
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,995575270598493,5,1.0,descriptive__descriptive-03__dn100__slot05__seed995575270598493.flac,0.07647525519132614,0.37568211555480957
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,995575270598493,5,0.7,descriptive__descriptive-03__dn070__slot05__seed995575270598493.flac,0.15790149569511414,0.3675689995288849
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,995575270598493,5,0.55,descriptive__descriptive-03__dn055__slot05__seed995575270598493.flac,0.1552756428718567,0.1966954618692398
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,995575270598493,5,0.4,descriptive__descriptive-03__dn040__slot05__seed995575270598493.flac,0.02933787927031517,0.2174481749534607
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,526088629548919,6,1.0,descriptive__descriptive-03__dn100__slot06__seed526088629548919.flac,0.07372003048658371,0.11972719430923462
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,526088629548919,6,0.7,descriptive__descriptive-03__dn070__slot06__seed526088629548919.flac,-0.022049980238080025,0.3195838928222656
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,526088629548919,6,0.55,descriptive__descriptive-03__dn055__slot06__seed526088629548919.flac,-0.05343925207853317,0.4405704438686371
+descriptive,Descriptive,descriptive-03,Ambient synth loop,3,526088629548919,6,0.4,descriptive__descriptive-03__dn040__slot06__seed526088629548919.flac,0.11877776682376862,0.24696660041809082
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,398410139056662,1,1.0,descriptive__descriptive-04__dn100__slot01__seed398410139056662.flac,-0.6663190722465515,-0.1523890346288681
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,398410139056662,1,0.7,descriptive__descriptive-04__dn070__slot01__seed398410139056662.flac,-0.6703587770462036,-0.136563241481781
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,398410139056662,1,0.55,descriptive__descriptive-04__dn055__slot01__seed398410139056662.flac,-0.5959826707839966,-0.25007548928260803
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,398410139056662,1,0.4,descriptive__descriptive-04__dn040__slot01__seed398410139056662.flac,-0.4648430347442627,-0.25435391068458557
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,581603229148997,2,1.0,descriptive__descriptive-04__dn100__slot02__seed581603229148997.flac,-0.48991450667381287,-0.151979461312294
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,581603229148997,2,0.7,descriptive__descriptive-04__dn070__slot02__seed581603229148997.flac,-0.5463099479675293,-0.170192688703537
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,581603229148997,2,0.55,descriptive__descriptive-04__dn055__slot02__seed581603229148997.flac,-0.6090970039367676,-0.23480916023254395
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,581603229148997,2,0.4,descriptive__descriptive-04__dn040__slot02__seed581603229148997.flac,-0.3651968836784363,-0.22338831424713135
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,327312407480077,3,1.0,descriptive__descriptive-04__dn100__slot03__seed327312407480077.flac,-0.6865591406822205,-0.1658097505569458
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,327312407480077,3,0.7,descriptive__descriptive-04__dn070__slot03__seed327312407480077.flac,-0.7510483860969543,-0.13629624247550964
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,327312407480077,3,0.55,descriptive__descriptive-04__dn055__slot03__seed327312407480077.flac,-0.41788336634635925,-0.2038806974887848
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,327312407480077,3,0.4,descriptive__descriptive-04__dn040__slot03__seed327312407480077.flac,-0.4964452087879181,-0.14681187272071838
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,476864878317074,4,1.0,descriptive__descriptive-04__dn100__slot04__seed476864878317074.flac,-0.7295136451721191,-0.2081862986087799
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,476864878317074,4,0.7,descriptive__descriptive-04__dn070__slot04__seed476864878317074.flac,-0.6395668387413025,-0.2323427051305771
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,476864878317074,4,0.55,descriptive__descriptive-04__dn055__slot04__seed476864878317074.flac,-0.5368422865867615,-0.2507331371307373
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,476864878317074,4,0.4,descriptive__descriptive-04__dn040__slot04__seed476864878317074.flac,-0.313138872385025,-0.15839791297912598
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,916589050477114,5,1.0,descriptive__descriptive-04__dn100__slot05__seed916589050477114.flac,-0.6469125747680664,-0.17921729385852814
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,916589050477114,5,0.7,descriptive__descriptive-04__dn070__slot05__seed916589050477114.flac,-0.5713661909103394,-0.17763768136501312
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,916589050477114,5,0.55,descriptive__descriptive-04__dn055__slot05__seed916589050477114.flac,-0.5237139463424683,-0.1538645327091217
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,916589050477114,5,0.4,descriptive__descriptive-04__dn040__slot05__seed916589050477114.flac,-0.6843680739402771,-0.1302928328514099
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,576220339838781,6,1.0,descriptive__descriptive-04__dn100__slot06__seed576220339838781.flac,-0.6033046245574951,-0.13288746774196625
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,576220339838781,6,0.7,descriptive__descriptive-04__dn070__slot06__seed576220339838781.flac,-0.732326090335846,-0.1651488095521927
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,576220339838781,6,0.55,descriptive__descriptive-04__dn055__slot06__seed576220339838781.flac,-0.7441266775131226,-0.14557230472564697
+descriptive,Descriptive,descriptive-04,"Cat purring, feline, kitty",4,576220339838781,6,0.4,descriptive__descriptive-04__dn040__slot06__seed576220339838781.flac,-0.685810387134552,-0.20458470284938812
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,845291948846361,1,1.0,descriptive__descriptive-05__dn100__slot01__seed845291948846361.flac,-0.32632675766944885,0.6375529766082764
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,845291948846361,1,0.7,descriptive__descriptive-05__dn070__slot01__seed845291948846361.flac,-0.37043440341949463,0.6526935696601868
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,845291948846361,1,0.55,descriptive__descriptive-05__dn055__slot01__seed845291948846361.flac,-0.27441173791885376,0.5481374263763428
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,845291948846361,1,0.4,descriptive__descriptive-05__dn040__slot01__seed845291948846361.flac,-0.3143552839756012,0.582054078578949
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,710378140300593,2,1.0,descriptive__descriptive-05__dn100__slot02__seed710378140300593.flac,-0.4678884446620941,0.571111798286438
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,710378140300593,2,0.7,descriptive__descriptive-05__dn070__slot02__seed710378140300593.flac,-0.31280767917633057,0.6150487065315247
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,710378140300593,2,0.55,descriptive__descriptive-05__dn055__slot02__seed710378140300593.flac,-0.07608933001756668,0.4858752191066742
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,710378140300593,2,0.4,descriptive__descriptive-05__dn040__slot02__seed710378140300593.flac,-0.5970849394798279,0.593086302280426
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,554159517989115,3,1.0,descriptive__descriptive-05__dn100__slot03__seed554159517989115.flac,-0.30242428183555603,0.6223877668380737
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,554159517989115,3,0.7,descriptive__descriptive-05__dn070__slot03__seed554159517989115.flac,-0.27516716718673706,0.611183226108551
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,554159517989115,3,0.55,descriptive__descriptive-05__dn055__slot03__seed554159517989115.flac,-0.40846869349479675,0.5329274535179138
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,554159517989115,3,0.4,descriptive__descriptive-05__dn040__slot03__seed554159517989115.flac,-0.13469131290912628,0.482721209526062
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,499548161013021,4,1.0,descriptive__descriptive-05__dn100__slot04__seed499548161013021.flac,-0.41473719477653503,0.6592739820480347
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,499548161013021,4,0.7,descriptive__descriptive-05__dn070__slot04__seed499548161013021.flac,-0.325756311416626,0.6205132007598877
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,499548161013021,4,0.55,descriptive__descriptive-05__dn055__slot04__seed499548161013021.flac,-0.23377478122711182,0.5957070589065552
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,499548161013021,4,0.4,descriptive__descriptive-05__dn040__slot04__seed499548161013021.flac,-0.39531204104423523,0.5906355381011963
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,799177406954422,5,1.0,descriptive__descriptive-05__dn100__slot05__seed799177406954422.flac,-0.17023590207099915,0.6017278432846069
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,799177406954422,5,0.7,descriptive__descriptive-05__dn070__slot05__seed799177406954422.flac,-0.27805477380752563,0.6290030479431152
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,799177406954422,5,0.55,descriptive__descriptive-05__dn055__slot05__seed799177406954422.flac,-0.3436329960823059,0.6139926910400391
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,799177406954422,5,0.4,descriptive__descriptive-05__dn040__slot05__seed799177406954422.flac,-0.31109732389450073,0.6550654768943787
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,755127694752658,6,1.0,descriptive__descriptive-05__dn100__slot06__seed755127694752658.flac,-0.4741717278957367,0.6389085650444031
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,755127694752658,6,0.7,descriptive__descriptive-05__dn070__slot06__seed755127694752658.flac,-0.4999791979789734,0.6787109971046448
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,755127694752658,6,0.55,descriptive__descriptive-05__dn055__slot06__seed755127694752658.flac,-0.4740467369556427,0.6432362198829651
+descriptive,Descriptive,descriptive-05,"Jazz piano chords, loop",5,755127694752658,6,0.4,descriptive__descriptive-05__dn040__slot06__seed755127694752658.flac,-0.39139002561569214,0.6431629657745361
+abstract,Abstract,abstract-01,Solar ekphrasis,1,936466550673771,1,1.0,abstract__abstract-01__dn100__slot01__seed936466550673771.flac,0.2983067035675049,-0.2138976752758026
+abstract,Abstract,abstract-01,Solar ekphrasis,1,936466550673771,1,0.7,abstract__abstract-01__dn070__slot01__seed936466550673771.flac,0.12421215325593948,0.04236588999629021
+abstract,Abstract,abstract-01,Solar ekphrasis,1,936466550673771,1,0.55,abstract__abstract-01__dn055__slot01__seed936466550673771.flac,0.37333282828330994,-0.02728801593184471
+abstract,Abstract,abstract-01,Solar ekphrasis,1,936466550673771,1,0.4,abstract__abstract-01__dn040__slot01__seed936466550673771.flac,0.14850208163261414,0.3181118071079254
+abstract,Abstract,abstract-01,Solar ekphrasis,1,937150080021621,2,1.0,abstract__abstract-01__dn100__slot02__seed937150080021621.flac,0.0976935625076294,-0.046968974173069
+abstract,Abstract,abstract-01,Solar ekphrasis,1,937150080021621,2,0.7,abstract__abstract-01__dn070__slot02__seed937150080021621.flac,0.06034895032644272,0.0640740841627121
+abstract,Abstract,abstract-01,Solar ekphrasis,1,937150080021621,2,0.55,abstract__abstract-01__dn055__slot02__seed937150080021621.flac,0.17788833379745483,0.1352614164352417
+abstract,Abstract,abstract-01,Solar ekphrasis,1,937150080021621,2,0.4,abstract__abstract-01__dn040__slot02__seed937150080021621.flac,-0.04452301934361458,0.3530633747577667
+abstract,Abstract,abstract-01,Solar ekphrasis,1,713301688808005,3,1.0,abstract__abstract-01__dn100__slot03__seed713301688808005.flac,0.16483554244041443,0.24194516241550446
+abstract,Abstract,abstract-01,Solar ekphrasis,1,713301688808005,3,0.7,abstract__abstract-01__dn070__slot03__seed713301688808005.flac,-0.04122461378574371,0.3226481080055237
+abstract,Abstract,abstract-01,Solar ekphrasis,1,713301688808005,3,0.55,abstract__abstract-01__dn055__slot03__seed713301688808005.flac,-0.07929076254367828,0.40179678797721863
+abstract,Abstract,abstract-01,Solar ekphrasis,1,713301688808005,3,0.4,abstract__abstract-01__dn040__slot03__seed713301688808005.flac,0.22363032400608063,-0.21959401667118073
+abstract,Abstract,abstract-01,Solar ekphrasis,1,417441241092408,4,1.0,abstract__abstract-01__dn100__slot04__seed417441241092408.flac,0.12200304120779037,0.11453532427549362
+abstract,Abstract,abstract-01,Solar ekphrasis,1,417441241092408,4,0.7,abstract__abstract-01__dn070__slot04__seed417441241092408.flac,-0.07302899658679962,0.45712825655937195
+abstract,Abstract,abstract-01,Solar ekphrasis,1,417441241092408,4,0.55,abstract__abstract-01__dn055__slot04__seed417441241092408.flac,-0.0001458934275433421,0.4920336604118347
+abstract,Abstract,abstract-01,Solar ekphrasis,1,417441241092408,4,0.4,abstract__abstract-01__dn040__slot04__seed417441241092408.flac,0.22784727811813354,0.29851043224334717
+abstract,Abstract,abstract-01,Solar ekphrasis,1,660458076140203,5,1.0,abstract__abstract-01__dn100__slot05__seed660458076140203.flac,-0.11987115442752838,0.07525897771120071
+abstract,Abstract,abstract-01,Solar ekphrasis,1,660458076140203,5,0.7,abstract__abstract-01__dn070__slot05__seed660458076140203.flac,0.15263669192790985,0.04624026641249657
+abstract,Abstract,abstract-01,Solar ekphrasis,1,660458076140203,5,0.55,abstract__abstract-01__dn055__slot05__seed660458076140203.flac,0.30295976996421814,-0.0069161406718194485
+abstract,Abstract,abstract-01,Solar ekphrasis,1,660458076140203,5,0.4,abstract__abstract-01__dn040__slot05__seed660458076140203.flac,0.19623440504074097,0.16713076829910278
+abstract,Abstract,abstract-01,Solar ekphrasis,1,873534913822354,6,1.0,abstract__abstract-01__dn100__slot06__seed873534913822354.flac,-0.026851553469896317,0.09966301918029785
+abstract,Abstract,abstract-01,Solar ekphrasis,1,873534913822354,6,0.7,abstract__abstract-01__dn070__slot06__seed873534913822354.flac,-0.031122533604502678,0.09136919677257538
+abstract,Abstract,abstract-01,Solar ekphrasis,1,873534913822354,6,0.55,abstract__abstract-01__dn055__slot06__seed873534913822354.flac,-0.16407471895217896,0.14742828905582428
+abstract,Abstract,abstract-01,Solar ekphrasis,1,873534913822354,6,0.4,abstract__abstract-01__dn040__slot06__seed873534913822354.flac,0.07799287140369415,0.06316258013248444
+abstract,Abstract,abstract-02,Cosmic infoldings,2,467779948461085,1,1.0,abstract__abstract-02__dn100__slot01__seed467779948461085.flac,0.2847430109977722,-0.06385282427072525
+abstract,Abstract,abstract-02,Cosmic infoldings,2,467779948461085,1,0.7,abstract__abstract-02__dn070__slot01__seed467779948461085.flac,0.35811421275138855,-0.0503353588283062
+abstract,Abstract,abstract-02,Cosmic infoldings,2,467779948461085,1,0.55,abstract__abstract-02__dn055__slot01__seed467779948461085.flac,0.3641735017299652,-0.15370070934295654
+abstract,Abstract,abstract-02,Cosmic infoldings,2,467779948461085,1,0.4,abstract__abstract-02__dn040__slot01__seed467779948461085.flac,0.2474687546491623,0.09644007682800293
+abstract,Abstract,abstract-02,Cosmic infoldings,2,758282017860344,2,1.0,abstract__abstract-02__dn100__slot02__seed758282017860344.flac,0.29277122020721436,0.15424716472625732
+abstract,Abstract,abstract-02,Cosmic infoldings,2,758282017860344,2,0.7,abstract__abstract-02__dn070__slot02__seed758282017860344.flac,0.3306635916233063,-0.04638339951634407
+abstract,Abstract,abstract-02,Cosmic infoldings,2,758282017860344,2,0.55,abstract__abstract-02__dn055__slot02__seed758282017860344.flac,0.3536657691001892,0.07267507165670395
+abstract,Abstract,abstract-02,Cosmic infoldings,2,758282017860344,2,0.4,abstract__abstract-02__dn040__slot02__seed758282017860344.flac,0.36810994148254395,-0.1641334742307663
+abstract,Abstract,abstract-02,Cosmic infoldings,2,510094380489408,3,1.0,abstract__abstract-02__dn100__slot03__seed510094380489408.flac,0.4285639524459839,-0.14116136729717255
+abstract,Abstract,abstract-02,Cosmic infoldings,2,510094380489408,3,0.7,abstract__abstract-02__dn070__slot03__seed510094380489408.flac,0.2812204957008362,0.11289341002702713
+abstract,Abstract,abstract-02,Cosmic infoldings,2,510094380489408,3,0.55,abstract__abstract-02__dn055__slot03__seed510094380489408.flac,0.375257670879364,0.06294725835323334
+abstract,Abstract,abstract-02,Cosmic infoldings,2,510094380489408,3,0.4,abstract__abstract-02__dn040__slot03__seed510094380489408.flac,0.3946765959262848,0.0921434760093689
+abstract,Abstract,abstract-02,Cosmic infoldings,2,959546376485544,4,1.0,abstract__abstract-02__dn100__slot04__seed959546376485544.flac,0.32221847772598267,0.07499019801616669
+abstract,Abstract,abstract-02,Cosmic infoldings,2,959546376485544,4,0.7,abstract__abstract-02__dn070__slot04__seed959546376485544.flac,0.2079027146100998,-0.18842780590057373
+abstract,Abstract,abstract-02,Cosmic infoldings,2,959546376485544,4,0.55,abstract__abstract-02__dn055__slot04__seed959546376485544.flac,0.39406418800354004,-0.23347288370132446
+abstract,Abstract,abstract-02,Cosmic infoldings,2,959546376485544,4,0.4,abstract__abstract-02__dn040__slot04__seed959546376485544.flac,0.2671624720096588,-0.03827677294611931
+abstract,Abstract,abstract-02,Cosmic infoldings,2,844919671624663,5,1.0,abstract__abstract-02__dn100__slot05__seed844919671624663.flac,0.28927943110466003,-0.2539927661418915
+abstract,Abstract,abstract-02,Cosmic infoldings,2,844919671624663,5,0.7,abstract__abstract-02__dn070__slot05__seed844919671624663.flac,0.12178438901901245,0.012081927619874477
+abstract,Abstract,abstract-02,Cosmic infoldings,2,844919671624663,5,0.55,abstract__abstract-02__dn055__slot05__seed844919671624663.flac,0.3789137899875641,-0.09811820089817047
+abstract,Abstract,abstract-02,Cosmic infoldings,2,844919671624663,5,0.4,abstract__abstract-02__dn040__slot05__seed844919671624663.flac,0.21633800864219666,-0.2748018801212311
+abstract,Abstract,abstract-02,Cosmic infoldings,2,754560758249331,6,1.0,abstract__abstract-02__dn100__slot06__seed754560758249331.flac,0.3114086985588074,0.15446697175502777
+abstract,Abstract,abstract-02,Cosmic infoldings,2,754560758249331,6,0.7,abstract__abstract-02__dn070__slot06__seed754560758249331.flac,0.3585600256919861,-0.21264544129371643
+abstract,Abstract,abstract-02,Cosmic infoldings,2,754560758249331,6,0.55,abstract__abstract-02__dn055__slot06__seed754560758249331.flac,0.25867557525634766,-0.3007282018661499
+abstract,Abstract,abstract-02,Cosmic infoldings,2,754560758249331,6,0.4,abstract__abstract-02__dn040__slot06__seed754560758249331.flac,0.3433164358139038,-0.2142714560031891
+abstract,Abstract,abstract-03,Colliding blackholes,3,549384717397659,1,1.0,abstract__abstract-03__dn100__slot01__seed549384717397659.flac,0.3181089460849762,-0.024717247113585472
+abstract,Abstract,abstract-03,Colliding blackholes,3,549384717397659,1,0.7,abstract__abstract-03__dn070__slot01__seed549384717397659.flac,0.1523430347442627,-0.0401277132332325
+abstract,Abstract,abstract-03,Colliding blackholes,3,549384717397659,1,0.55,abstract__abstract-03__dn055__slot01__seed549384717397659.flac,-0.056798454374074936,-0.3043844699859619
+abstract,Abstract,abstract-03,Colliding blackholes,3,549384717397659,1,0.4,abstract__abstract-03__dn040__slot01__seed549384717397659.flac,0.14357683062553406,-0.08597159385681152
+abstract,Abstract,abstract-03,Colliding blackholes,3,104602413208802,2,1.0,abstract__abstract-03__dn100__slot02__seed104602413208802.flac,0.1490137279033661,-0.2141302078962326
+abstract,Abstract,abstract-03,Colliding blackholes,3,104602413208802,2,0.7,abstract__abstract-03__dn070__slot02__seed104602413208802.flac,-0.023155465722084045,0.3566094636917114
+abstract,Abstract,abstract-03,Colliding blackholes,3,104602413208802,2,0.55,abstract__abstract-03__dn055__slot02__seed104602413208802.flac,0.12990710139274597,-0.2402224987745285
+abstract,Abstract,abstract-03,Colliding blackholes,3,104602413208802,2,0.4,abstract__abstract-03__dn040__slot02__seed104602413208802.flac,0.32350704073905945,-0.08444046229124069
+abstract,Abstract,abstract-03,Colliding blackholes,3,247385422446336,3,1.0,abstract__abstract-03__dn100__slot03__seed247385422446336.flac,0.15772651135921478,-0.1272159367799759
+abstract,Abstract,abstract-03,Colliding blackholes,3,247385422446336,3,0.7,abstract__abstract-03__dn070__slot03__seed247385422446336.flac,0.14000587165355682,-0.11295808106660843
+abstract,Abstract,abstract-03,Colliding blackholes,3,247385422446336,3,0.55,abstract__abstract-03__dn055__slot03__seed247385422446336.flac,0.08244410902261734,0.2558668553829193
+abstract,Abstract,abstract-03,Colliding blackholes,3,247385422446336,3,0.4,abstract__abstract-03__dn040__slot03__seed247385422446336.flac,-0.003731644945219159,0.28929004073143005
+abstract,Abstract,abstract-03,Colliding blackholes,3,226397792656353,4,1.0,abstract__abstract-03__dn100__slot04__seed226397792656353.flac,0.3008144199848175,-0.03267185389995575
+abstract,Abstract,abstract-03,Colliding blackholes,3,226397792656353,4,0.7,abstract__abstract-03__dn070__slot04__seed226397792656353.flac,0.2571932375431061,0.16614995896816254
+abstract,Abstract,abstract-03,Colliding blackholes,3,226397792656353,4,0.55,abstract__abstract-03__dn055__slot04__seed226397792656353.flac,0.004234159365296364,-0.29071733355522156
+abstract,Abstract,abstract-03,Colliding blackholes,3,226397792656353,4,0.4,abstract__abstract-03__dn040__slot04__seed226397792656353.flac,0.20825041830539703,-0.10574917495250702
+abstract,Abstract,abstract-03,Colliding blackholes,3,995575270598493,5,1.0,abstract__abstract-03__dn100__slot05__seed995575270598493.flac,0.14991989731788635,-0.2707398533821106
+abstract,Abstract,abstract-03,Colliding blackholes,3,995575270598493,5,0.7,abstract__abstract-03__dn070__slot05__seed995575270598493.flac,0.3128625452518463,-0.15123799443244934
+abstract,Abstract,abstract-03,Colliding blackholes,3,995575270598493,5,0.55,abstract__abstract-03__dn055__slot05__seed995575270598493.flac,0.24893634021282196,0.08354053646326065
+abstract,Abstract,abstract-03,Colliding blackholes,3,995575270598493,5,0.4,abstract__abstract-03__dn040__slot05__seed995575270598493.flac,0.25108012557029724,0.06968290358781815
+abstract,Abstract,abstract-03,Colliding blackholes,3,526088629548919,6,1.0,abstract__abstract-03__dn100__slot06__seed526088629548919.flac,0.3332449197769165,0.0755557268857956
+abstract,Abstract,abstract-03,Colliding blackholes,3,526088629548919,6,0.7,abstract__abstract-03__dn070__slot06__seed526088629548919.flac,0.07176247984170914,0.09544507414102554
+abstract,Abstract,abstract-03,Colliding blackholes,3,526088629548919,6,0.55,abstract__abstract-03__dn055__slot06__seed526088629548919.flac,0.24044039845466614,0.057230107486248016
+abstract,Abstract,abstract-03,Colliding blackholes,3,526088629548919,6,0.4,abstract__abstract-03__dn040__slot06__seed526088629548919.flac,0.18639639019966125,0.030934074893593788
+abstract,Abstract,abstract-04,Fragile entropic structure,4,398410139056662,1,1.0,abstract__abstract-04__dn100__slot01__seed398410139056662.flac,-0.09270089864730835,0.004351870622485876
+abstract,Abstract,abstract-04,Fragile entropic structure,4,398410139056662,1,0.7,abstract__abstract-04__dn070__slot01__seed398410139056662.flac,0.07530384510755539,-0.3381948471069336
+abstract,Abstract,abstract-04,Fragile entropic structure,4,398410139056662,1,0.55,abstract__abstract-04__dn055__slot01__seed398410139056662.flac,-0.24766406416893005,-0.057990364730358124
+abstract,Abstract,abstract-04,Fragile entropic structure,4,398410139056662,1,0.4,abstract__abstract-04__dn040__slot01__seed398410139056662.flac,0.044513117522001266,-0.44529128074645996
+abstract,Abstract,abstract-04,Fragile entropic structure,4,581603229148997,2,1.0,abstract__abstract-04__dn100__slot02__seed581603229148997.flac,0.30554986000061035,-0.10912811756134033
+abstract,Abstract,abstract-04,Fragile entropic structure,4,581603229148997,2,0.7,abstract__abstract-04__dn070__slot02__seed581603229148997.flac,0.03451036661863327,-0.17228981852531433
+abstract,Abstract,abstract-04,Fragile entropic structure,4,581603229148997,2,0.55,abstract__abstract-04__dn055__slot02__seed581603229148997.flac,0.11933385580778122,-0.2072112262248993
+abstract,Abstract,abstract-04,Fragile entropic structure,4,581603229148997,2,0.4,abstract__abstract-04__dn040__slot02__seed581603229148997.flac,0.0257604718208313,0.2382098287343979
+abstract,Abstract,abstract-04,Fragile entropic structure,4,327312407480077,3,1.0,abstract__abstract-04__dn100__slot03__seed327312407480077.flac,0.08592523634433746,-0.12723596394062042
+abstract,Abstract,abstract-04,Fragile entropic structure,4,327312407480077,3,0.7,abstract__abstract-04__dn070__slot03__seed327312407480077.flac,0.2108326405286789,-0.07936941087245941
+abstract,Abstract,abstract-04,Fragile entropic structure,4,327312407480077,3,0.55,abstract__abstract-04__dn055__slot03__seed327312407480077.flac,0.13474225997924805,-0.161368727684021
+abstract,Abstract,abstract-04,Fragile entropic structure,4,327312407480077,3,0.4,abstract__abstract-04__dn040__slot03__seed327312407480077.flac,0.18258021771907806,0.21154369413852692
+abstract,Abstract,abstract-04,Fragile entropic structure,4,476864878317074,4,1.0,abstract__abstract-04__dn100__slot04__seed476864878317074.flac,0.04007434844970703,0.19219878315925598
+abstract,Abstract,abstract-04,Fragile entropic structure,4,476864878317074,4,0.7,abstract__abstract-04__dn070__slot04__seed476864878317074.flac,0.19140492379665375,0.001534059178084135
+abstract,Abstract,abstract-04,Fragile entropic structure,4,476864878317074,4,0.55,abstract__abstract-04__dn055__slot04__seed476864878317074.flac,0.19499051570892334,0.13923975825309753
+abstract,Abstract,abstract-04,Fragile entropic structure,4,476864878317074,4,0.4,abstract__abstract-04__dn040__slot04__seed476864878317074.flac,-0.1284397393465042,0.22450092434883118
+abstract,Abstract,abstract-04,Fragile entropic structure,4,916589050477114,5,1.0,abstract__abstract-04__dn100__slot05__seed916589050477114.flac,0.2098674774169922,0.045776721090078354
+abstract,Abstract,abstract-04,Fragile entropic structure,4,916589050477114,5,0.7,abstract__abstract-04__dn070__slot05__seed916589050477114.flac,0.17475199699401855,0.08567346632480621
+abstract,Abstract,abstract-04,Fragile entropic structure,4,916589050477114,5,0.55,abstract__abstract-04__dn055__slot05__seed916589050477114.flac,0.09917741268873215,-0.055038779973983765
+abstract,Abstract,abstract-04,Fragile entropic structure,4,916589050477114,5,0.4,abstract__abstract-04__dn040__slot05__seed916589050477114.flac,0.28878912329673767,-0.04000795632600784
+abstract,Abstract,abstract-04,Fragile entropic structure,4,576220339838781,6,1.0,abstract__abstract-04__dn100__slot06__seed576220339838781.flac,0.21069344878196716,0.11429080367088318
+abstract,Abstract,abstract-04,Fragile entropic structure,4,576220339838781,6,0.7,abstract__abstract-04__dn070__slot06__seed576220339838781.flac,0.053056780248880386,0.12369188666343689
+abstract,Abstract,abstract-04,Fragile entropic structure,4,576220339838781,6,0.55,abstract__abstract-04__dn055__slot06__seed576220339838781.flac,0.12592527270317078,-0.10620315372943878
+abstract,Abstract,abstract-04,Fragile entropic structure,4,576220339838781,6,0.4,abstract__abstract-04__dn040__slot06__seed576220339838781.flac,0.18478329479694366,0.3153987228870392
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,845291948846361,1,1.0,abstract__abstract-05__dn100__slot01__seed845291948846361.flac,0.2884354591369629,-0.04361771419644356
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,845291948846361,1,0.7,abstract__abstract-05__dn070__slot01__seed845291948846361.flac,0.3220100402832031,-0.03150680288672447
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,845291948846361,1,0.55,abstract__abstract-05__dn055__slot01__seed845291948846361.flac,0.3658137023448944,-0.04394031688570976
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,845291948846361,1,0.4,abstract__abstract-05__dn040__slot01__seed845291948846361.flac,0.16692855954170227,0.16505464911460876
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,710378140300593,2,1.0,abstract__abstract-05__dn100__slot02__seed710378140300593.flac,0.34409818053245544,-0.21658353507518768
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,710378140300593,2,0.7,abstract__abstract-05__dn070__slot02__seed710378140300593.flac,0.4177228510379791,-0.07809077203273773
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,710378140300593,2,0.55,abstract__abstract-05__dn055__slot02__seed710378140300593.flac,0.35392138361930847,-0.22089065611362457
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,710378140300593,2,0.4,abstract__abstract-05__dn040__slot02__seed710378140300593.flac,-0.014361846260726452,0.1305776834487915
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,554159517989115,3,1.0,abstract__abstract-05__dn100__slot03__seed554159517989115.flac,0.22557498514652252,-0.31231313943862915
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,554159517989115,3,0.7,abstract__abstract-05__dn070__slot03__seed554159517989115.flac,0.16254514455795288,-0.1619768738746643
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,554159517989115,3,0.55,abstract__abstract-05__dn055__slot03__seed554159517989115.flac,0.19320905208587646,0.09364726394414902
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,554159517989115,3,0.4,abstract__abstract-05__dn040__slot03__seed554159517989115.flac,0.21778874099254608,0.235172837972641
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,499548161013021,4,1.0,abstract__abstract-05__dn100__slot04__seed499548161013021.flac,0.27096229791641235,-0.25721225142478943
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,499548161013021,4,0.7,abstract__abstract-05__dn070__slot04__seed499548161013021.flac,0.37462034821510315,0.0571274496614933
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,499548161013021,4,0.55,abstract__abstract-05__dn055__slot04__seed499548161013021.flac,0.08832842856645584,0.018290873616933823
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,499548161013021,4,0.4,abstract__abstract-05__dn040__slot04__seed499548161013021.flac,-0.028962764889001846,0.2093580812215805
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,799177406954422,5,1.0,abstract__abstract-05__dn100__slot05__seed799177406954422.flac,0.3139289617538452,-0.031974874436855316
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,799177406954422,5,0.7,abstract__abstract-05__dn070__slot05__seed799177406954422.flac,0.07400403916835785,-0.35755017399787903
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,799177406954422,5,0.55,abstract__abstract-05__dn055__slot05__seed799177406954422.flac,0.27471408247947693,-0.3442615270614624
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,799177406954422,5,0.4,abstract__abstract-05__dn040__slot05__seed799177406954422.flac,0.14222131669521332,0.25275465846061707
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,755127694752658,6,1.0,abstract__abstract-05__dn100__slot06__seed755127694752658.flac,0.3864157497882843,-0.14276757836341858
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,755127694752658,6,0.7,abstract__abstract-05__dn070__slot06__seed755127694752658.flac,0.4384379982948303,-0.18922047317028046
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,755127694752658,6,0.55,abstract__abstract-05__dn055__slot06__seed755127694752658.flac,0.38911178708076477,0.008008284494280815
+abstract,Abstract,abstract-05,Entangled bilateral transfer functions,5,755127694752658,6,0.4,abstract__abstract-05__dn040__slot06__seed755127694752658.flac,0.3664352595806122,-0.014449643902480602
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,936466550673771,1,1.0,unconditioned__unconditioned-01__dn100__slot01__seed936466550673771.flac,0.21915294229984283,-0.2439059615135193
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,936466550673771,1,0.7,unconditioned__unconditioned-01__dn070__slot01__seed936466550673771.flac,0.13227595388889313,-0.07770907133817673
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,936466550673771,1,0.55,unconditioned__unconditioned-01__dn055__slot01__seed936466550673771.flac,0.2930621802806854,0.179934561252594
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,936466550673771,1,0.4,unconditioned__unconditioned-01__dn040__slot01__seed936466550673771.flac,0.16609400510787964,0.27995601296424866
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,937150080021621,2,1.0,unconditioned__unconditioned-01__dn100__slot02__seed937150080021621.flac,0.2335744947195053,-0.10128948837518692
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,937150080021621,2,0.7,unconditioned__unconditioned-01__dn070__slot02__seed937150080021621.flac,0.2564879357814789,-0.2147965133190155
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,937150080021621,2,0.55,unconditioned__unconditioned-01__dn055__slot02__seed937150080021621.flac,0.1762535125017166,-0.29001447558403015
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,937150080021621,2,0.4,unconditioned__unconditioned-01__dn040__slot02__seed937150080021621.flac,0.10664010792970657,0.17795757949352264
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,713301688808005,3,1.0,unconditioned__unconditioned-01__dn100__slot03__seed713301688808005.flac,0.14589647948741913,-0.12350411713123322
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,713301688808005,3,0.7,unconditioned__unconditioned-01__dn070__slot03__seed713301688808005.flac,-0.006537204142659903,-0.18545328080654144
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,713301688808005,3,0.55,unconditioned__unconditioned-01__dn055__slot03__seed713301688808005.flac,0.2584673762321472,-0.2831411063671112
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,713301688808005,3,0.4,unconditioned__unconditioned-01__dn040__slot03__seed713301688808005.flac,0.36089324951171875,0.18564587831497192
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,417441241092408,4,1.0,unconditioned__unconditioned-01__dn100__slot04__seed417441241092408.flac,0.070431187748909,0.2530028522014618
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,417441241092408,4,0.7,unconditioned__unconditioned-01__dn070__slot04__seed417441241092408.flac,0.14399603009223938,0.25013652443885803
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,417441241092408,4,0.55,unconditioned__unconditioned-01__dn055__slot04__seed417441241092408.flac,0.20167659223079681,0.23512500524520874
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,417441241092408,4,0.4,unconditioned__unconditioned-01__dn040__slot04__seed417441241092408.flac,0.17857249081134796,0.26729816198349
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,660458076140203,5,1.0,unconditioned__unconditioned-01__dn100__slot05__seed660458076140203.flac,-0.021318739280104637,-0.3845716714859009
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,660458076140203,5,0.7,unconditioned__unconditioned-01__dn070__slot05__seed660458076140203.flac,0.1637742519378662,0.056520622223615646
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,660458076140203,5,0.55,unconditioned__unconditioned-01__dn055__slot05__seed660458076140203.flac,0.002650122856721282,0.31045231223106384
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,660458076140203,5,0.4,unconditioned__unconditioned-01__dn040__slot05__seed660458076140203.flac,0.1879635900259018,0.34167227149009705
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,873534913822354,6,1.0,unconditioned__unconditioned-01__dn100__slot06__seed873534913822354.flac,0.24198001623153687,-0.3509919047355652
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,873534913822354,6,0.7,unconditioned__unconditioned-01__dn070__slot06__seed873534913822354.flac,0.1598743349313736,-0.2555452287197113
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,873534913822354,6,0.55,unconditioned__unconditioned-01__dn055__slot06__seed873534913822354.flac,0.3881758749485016,0.054663144052028656
+unconditioned,Unconditioned,unconditioned-01,Unconditioned slot 1,1,873534913822354,6,0.4,unconditioned__unconditioned-01__dn040__slot06__seed873534913822354.flac,0.13151590526103973,0.14370986819267273
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,467779948461085,1,1.0,unconditioned__unconditioned-02__dn100__slot01__seed467779948461085.flac,0.24866995215415955,0.07997321337461472
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,467779948461085,1,0.7,unconditioned__unconditioned-02__dn070__slot01__seed467779948461085.flac,0.26631075143814087,-0.15673266351222992
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,467779948461085,1,0.55,unconditioned__unconditioned-02__dn055__slot01__seed467779948461085.flac,0.11197391152381897,-0.26702335476875305
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,467779948461085,1,0.4,unconditioned__unconditioned-02__dn040__slot01__seed467779948461085.flac,0.03612440079450607,0.06601522117853165
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,758282017860344,2,1.0,unconditioned__unconditioned-02__dn100__slot02__seed758282017860344.flac,-0.11538214236497879,-0.3131351172924042
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,758282017860344,2,0.7,unconditioned__unconditioned-02__dn070__slot02__seed758282017860344.flac,0.09303059428930283,-0.011937353760004044
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,758282017860344,2,0.55,unconditioned__unconditioned-02__dn055__slot02__seed758282017860344.flac,0.2534639835357666,-0.043824441730976105
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,758282017860344,2,0.4,unconditioned__unconditioned-02__dn040__slot02__seed758282017860344.flac,0.1520659476518631,0.19667650759220123
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,510094380489408,3,1.0,unconditioned__unconditioned-02__dn100__slot03__seed510094380489408.flac,0.4157554805278778,-0.006758114323019981
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,510094380489408,3,0.7,unconditioned__unconditioned-02__dn070__slot03__seed510094380489408.flac,0.2221774458885193,-0.12086934596300125
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,510094380489408,3,0.55,unconditioned__unconditioned-02__dn055__slot03__seed510094380489408.flac,0.2906871736049652,-0.08892529457807541
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,510094380489408,3,0.4,unconditioned__unconditioned-02__dn040__slot03__seed510094380489408.flac,0.2126319408416748,0.2490559071302414
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,959546376485544,4,1.0,unconditioned__unconditioned-02__dn100__slot04__seed959546376485544.flac,0.2860218286514282,-0.08954735100269318
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,959546376485544,4,0.7,unconditioned__unconditioned-02__dn070__slot04__seed959546376485544.flac,0.244740828871727,-0.1419905424118042
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,959546376485544,4,0.55,unconditioned__unconditioned-02__dn055__slot04__seed959546376485544.flac,0.1959904581308365,-0.24705278873443604
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,959546376485544,4,0.4,unconditioned__unconditioned-02__dn040__slot04__seed959546376485544.flac,0.06290195137262344,0.1592952460050583
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,844919671624663,5,1.0,unconditioned__unconditioned-02__dn100__slot05__seed844919671624663.flac,0.28808465600013733,-0.32134565711021423
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,844919671624663,5,0.7,unconditioned__unconditioned-02__dn070__slot05__seed844919671624663.flac,0.10989787429571152,-0.1433243304491043
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,844919671624663,5,0.55,unconditioned__unconditioned-02__dn055__slot05__seed844919671624663.flac,0.1247328445315361,-0.11287368088960648
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,844919671624663,5,0.4,unconditioned__unconditioned-02__dn040__slot05__seed844919671624663.flac,0.1170562356710434,0.04698483273386955
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,754560758249331,6,1.0,unconditioned__unconditioned-02__dn100__slot06__seed754560758249331.flac,0.31890711188316345,-0.13268418610095978
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,754560758249331,6,0.7,unconditioned__unconditioned-02__dn070__slot06__seed754560758249331.flac,0.06054629758000374,0.022250009700655937
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,754560758249331,6,0.55,unconditioned__unconditioned-02__dn055__slot06__seed754560758249331.flac,-0.07593100517988205,-0.23337580263614655
+unconditioned,Unconditioned,unconditioned-02,Unconditioned slot 2,2,754560758249331,6,0.4,unconditioned__unconditioned-02__dn040__slot06__seed754560758249331.flac,0.19004040956497192,-0.23664450645446777
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,549384717397659,1,1.0,unconditioned__unconditioned-03__dn100__slot01__seed549384717397659.flac,0.16394957900047302,-0.18959413468837738
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,549384717397659,1,0.7,unconditioned__unconditioned-03__dn070__slot01__seed549384717397659.flac,0.2220177948474884,-0.3553573489189148
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,549384717397659,1,0.55,unconditioned__unconditioned-03__dn055__slot01__seed549384717397659.flac,0.3185918927192688,0.07981317490339279
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,549384717397659,1,0.4,unconditioned__unconditioned-03__dn040__slot01__seed549384717397659.flac,0.03290800377726555,0.012875860556960106
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,104602413208802,2,1.0,unconditioned__unconditioned-03__dn100__slot02__seed104602413208802.flac,0.03805211931467056,-0.3337077498435974
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,104602413208802,2,0.7,unconditioned__unconditioned-03__dn070__slot02__seed104602413208802.flac,-0.17441613972187042,-0.2106102555990219
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,104602413208802,2,0.55,unconditioned__unconditioned-03__dn055__slot02__seed104602413208802.flac,0.18685002624988556,-0.08235714584589005
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,104602413208802,2,0.4,unconditioned__unconditioned-03__dn040__slot02__seed104602413208802.flac,0.2351459562778473,0.3069476783275604
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,247385422446336,3,1.0,unconditioned__unconditioned-03__dn100__slot03__seed247385422446336.flac,0.042450547218322754,-0.11547587811946869
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,247385422446336,3,0.7,unconditioned__unconditioned-03__dn070__slot03__seed247385422446336.flac,0.05104884132742882,-0.2755453288555145
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,247385422446336,3,0.55,unconditioned__unconditioned-03__dn055__slot03__seed247385422446336.flac,0.12490214407444,-0.0803670585155487
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,247385422446336,3,0.4,unconditioned__unconditioned-03__dn040__slot03__seed247385422446336.flac,0.03264578431844711,0.20689675211906433
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,226397792656353,4,1.0,unconditioned__unconditioned-03__dn100__slot04__seed226397792656353.flac,0.19147297739982605,-0.2743073105812073
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,226397792656353,4,0.7,unconditioned__unconditioned-03__dn070__slot04__seed226397792656353.flac,0.11247852444648743,-0.23896688222885132
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,226397792656353,4,0.55,unconditioned__unconditioned-03__dn055__slot04__seed226397792656353.flac,0.25818005204200745,0.008249976672232151
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,226397792656353,4,0.4,unconditioned__unconditioned-03__dn040__slot04__seed226397792656353.flac,0.07778510451316833,-0.25112268328666687
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,995575270598493,5,1.0,unconditioned__unconditioned-03__dn100__slot05__seed995575270598493.flac,0.1918288767337799,-0.20396926999092102
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,995575270598493,5,0.7,unconditioned__unconditioned-03__dn070__slot05__seed995575270598493.flac,0.28767651319503784,0.07853071391582489
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,995575270598493,5,0.55,unconditioned__unconditioned-03__dn055__slot05__seed995575270598493.flac,0.3986815810203552,-0.059350837022066116
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,995575270598493,5,0.4,unconditioned__unconditioned-03__dn040__slot05__seed995575270598493.flac,0.14864294230937958,0.1958148330450058
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,526088629548919,6,1.0,unconditioned__unconditioned-03__dn100__slot06__seed526088629548919.flac,0.3083561062812805,-0.09782532602548599
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,526088629548919,6,0.7,unconditioned__unconditioned-03__dn070__slot06__seed526088629548919.flac,0.05191551148891449,-0.06001054495573044
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,526088629548919,6,0.55,unconditioned__unconditioned-03__dn055__slot06__seed526088629548919.flac,0.11170484870672226,0.009482640773057938
+unconditioned,Unconditioned,unconditioned-03,Unconditioned slot 3,3,526088629548919,6,0.4,unconditioned__unconditioned-03__dn040__slot06__seed526088629548919.flac,0.03523142635822296,0.31766650080680847
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,398410139056662,1,1.0,unconditioned__unconditioned-04__dn100__slot01__seed398410139056662.flac,0.0715365782380104,-0.10049775242805481
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,398410139056662,1,0.7,unconditioned__unconditioned-04__dn070__slot01__seed398410139056662.flac,-0.07243389636278152,-0.24957697093486786
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,398410139056662,1,0.55,unconditioned__unconditioned-04__dn055__slot01__seed398410139056662.flac,-0.14722226560115814,-0.10048099607229233
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,398410139056662,1,0.4,unconditioned__unconditioned-04__dn040__slot01__seed398410139056662.flac,0.09449589997529984,-0.3805769383907318
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,581603229148997,2,1.0,unconditioned__unconditioned-04__dn100__slot02__seed581603229148997.flac,0.3832254111766815,-0.2684692144393921
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,581603229148997,2,0.7,unconditioned__unconditioned-04__dn070__slot02__seed581603229148997.flac,0.32106274366378784,-0.09514598548412323
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,581603229148997,2,0.55,unconditioned__unconditioned-04__dn055__slot02__seed581603229148997.flac,0.26606929302215576,0.09827430546283722
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,581603229148997,2,0.4,unconditioned__unconditioned-04__dn040__slot02__seed581603229148997.flac,0.004180710297077894,0.38333773612976074
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,327312407480077,3,1.0,unconditioned__unconditioned-04__dn100__slot03__seed327312407480077.flac,0.1661430299282074,-0.3562255799770355
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,327312407480077,3,0.7,unconditioned__unconditioned-04__dn070__slot03__seed327312407480077.flac,0.33916643261909485,-0.22141562402248383
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,327312407480077,3,0.55,unconditioned__unconditioned-04__dn055__slot03__seed327312407480077.flac,0.23835165798664093,-0.30598387122154236
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,327312407480077,3,0.4,unconditioned__unconditioned-04__dn040__slot03__seed327312407480077.flac,0.1206788420677185,0.04943821206688881
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,476864878317074,4,1.0,unconditioned__unconditioned-04__dn100__slot04__seed476864878317074.flac,-0.2666042745113373,-0.22451521456241608
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,476864878317074,4,0.7,unconditioned__unconditioned-04__dn070__slot04__seed476864878317074.flac,0.11739037930965424,0.003167596645653248
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,476864878317074,4,0.55,unconditioned__unconditioned-04__dn055__slot04__seed476864878317074.flac,0.051427796483039856,-0.2626360058784485
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,476864878317074,4,0.4,unconditioned__unconditioned-04__dn040__slot04__seed476864878317074.flac,0.009650465101003647,0.16707062721252441
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,916589050477114,5,1.0,unconditioned__unconditioned-04__dn100__slot05__seed916589050477114.flac,0.2794896364212036,-0.11593972891569138
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,916589050477114,5,0.7,unconditioned__unconditioned-04__dn070__slot05__seed916589050477114.flac,0.4491501748561859,-0.14688387513160706
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,916589050477114,5,0.55,unconditioned__unconditioned-04__dn055__slot05__seed916589050477114.flac,0.396009236574173,-0.09464499354362488
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,916589050477114,5,0.4,unconditioned__unconditioned-04__dn040__slot05__seed916589050477114.flac,0.2411598563194275,0.037784725427627563
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,576220339838781,6,1.0,unconditioned__unconditioned-04__dn100__slot06__seed576220339838781.flac,0.10849977284669876,0.17772476375102997
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,576220339838781,6,0.7,unconditioned__unconditioned-04__dn070__slot06__seed576220339838781.flac,0.10556866228580475,-0.013029101304709911
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,576220339838781,6,0.55,unconditioned__unconditioned-04__dn055__slot06__seed576220339838781.flac,-0.09090597182512283,0.2222530096769333
+unconditioned,Unconditioned,unconditioned-04,Unconditioned slot 4,4,576220339838781,6,0.4,unconditioned__unconditioned-04__dn040__slot06__seed576220339838781.flac,0.11171095818281174,0.14344149827957153
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,845291948846361,1,1.0,unconditioned__unconditioned-05__dn100__slot01__seed845291948846361.flac,0.15040825307369232,0.07822766155004501
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,845291948846361,1,0.7,unconditioned__unconditioned-05__dn070__slot01__seed845291948846361.flac,0.2935389578342438,0.12085288763046265
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,845291948846361,1,0.55,unconditioned__unconditioned-05__dn055__slot01__seed845291948846361.flac,0.31720224022865295,0.06561160087585449
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,845291948846361,1,0.4,unconditioned__unconditioned-05__dn040__slot01__seed845291948846361.flac,-0.0630888119339943,0.40297719836235046
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,710378140300593,2,1.0,unconditioned__unconditioned-05__dn100__slot02__seed710378140300593.flac,0.18573981523513794,-0.03568320348858833
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,710378140300593,2,0.7,unconditioned__unconditioned-05__dn070__slot02__seed710378140300593.flac,0.06338512897491455,0.0028925917576998472
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,710378140300593,2,0.55,unconditioned__unconditioned-05__dn055__slot02__seed710378140300593.flac,0.25056278705596924,-0.04885222762823105
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,710378140300593,2,0.4,unconditioned__unconditioned-05__dn040__slot02__seed710378140300593.flac,-0.04820125550031662,0.19898231327533722
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,554159517989115,3,1.0,unconditioned__unconditioned-05__dn100__slot03__seed554159517989115.flac,0.07143235951662064,-0.27538439631462097
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,554159517989115,3,0.7,unconditioned__unconditioned-05__dn070__slot03__seed554159517989115.flac,-0.3407090902328491,-0.0423932708799839
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,554159517989115,3,0.55,unconditioned__unconditioned-05__dn055__slot03__seed554159517989115.flac,0.09572163969278336,0.31964144110679626
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,554159517989115,3,0.4,unconditioned__unconditioned-05__dn040__slot03__seed554159517989115.flac,0.10271100699901581,0.2655746340751648
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,499548161013021,4,1.0,unconditioned__unconditioned-05__dn100__slot04__seed499548161013021.flac,-0.021931950002908707,-0.09622977674007416
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,499548161013021,4,0.7,unconditioned__unconditioned-05__dn070__slot04__seed499548161013021.flac,0.24550509452819824,0.14359430968761444
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,499548161013021,4,0.55,unconditioned__unconditioned-05__dn055__slot04__seed499548161013021.flac,0.03639817237854004,0.34571731090545654
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,499548161013021,4,0.4,unconditioned__unconditioned-05__dn040__slot04__seed499548161013021.flac,0.11084440350532532,0.2151833325624466
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,799177406954422,5,1.0,unconditioned__unconditioned-05__dn100__slot05__seed799177406954422.flac,0.24690081179141998,-0.19323277473449707
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,799177406954422,5,0.7,unconditioned__unconditioned-05__dn070__slot05__seed799177406954422.flac,0.2671278417110443,0.05430395528674126
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,799177406954422,5,0.55,unconditioned__unconditioned-05__dn055__slot05__seed799177406954422.flac,0.2523591220378876,-0.27867773175239563
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,799177406954422,5,0.4,unconditioned__unconditioned-05__dn040__slot05__seed799177406954422.flac,0.1824609637260437,0.27771228551864624
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,755127694752658,6,1.0,unconditioned__unconditioned-05__dn100__slot06__seed755127694752658.flac,0.08520915359258652,0.1475018560886383
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,755127694752658,6,0.7,unconditioned__unconditioned-05__dn070__slot06__seed755127694752658.flac,0.0671381726861,-0.013839956372976303
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,755127694752658,6,0.55,unconditioned__unconditioned-05__dn055__slot06__seed755127694752658.flac,0.3701615631580353,0.05036499723792076
+unconditioned,Unconditioned,unconditioned-05,Unconditioned slot 5,5,755127694752658,6,0.4,unconditioned__unconditioned-05__dn040__slot06__seed755127694752658.flac,0.3174288272857666,0.11377071589231491
+descriptive,Descriptive,__family_centroid__,Family centroid,,__centroid__,,1.0,,-0.39113950729370117,0.05224967747926712
+descriptive,Descriptive,__family_centroid__,Family centroid,,__centroid__,,0.7,,-0.3933904469013214,0.04243052378296852
+descriptive,Descriptive,__family_centroid__,Family centroid,,__centroid__,,0.55,,-0.324945330619812,0.015530822798609734
+descriptive,Descriptive,__family_centroid__,Family centroid,,__centroid__,,0.4,,-0.24850359559059143,0.0010710100177675486
+abstract,Abstract,__family_centroid__,Family centroid,,__centroid__,,1.0,,0.21542516350746155,-0.042763371020555496
+abstract,Abstract,__family_centroid__,Family centroid,,__centroid__,,0.7,,0.1763426661491394,-0.005842750892043114
+abstract,Abstract,__family_centroid__,Family centroid,,__centroid__,,0.55,,0.18253959715366364,-0.029482899233698845
+abstract,Abstract,__family_centroid__,Family centroid,,__centroid__,,0.4,,0.17412903904914856,0.06913509964942932
+unconditioned,Unconditioned,__family_centroid__,Family centroid,,__centroid__,,1.0,,0.15759776532649994,-0.14041198790073395
+unconditioned,Unconditioned,__family_centroid__,Family centroid,,__centroid__,,0.7,,0.14177288115024567,-0.08329614996910095
+unconditioned,Unconditioned,__family_centroid__,Family centroid,,__centroid__,,0.55,,0.18854160606861115,-0.02999994345009327
+unconditioned,Unconditioned,__family_centroid__,Family centroid,,__centroid__,,0.4,,0.12162970751523972,0.15137995779514313

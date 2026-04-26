@@ -1,0 +1,9 @@
+family_id,family_label,control_family_id,control_family_label,denoise,n,centroid_cosine_distance,mean_sample_to_control_distance,std_sample_to_control_distance
+descriptive,Descriptive,unconditioned,Unconditioned,1.0,30,0.5479163825511932,0.7384180426597595,0.14648139476776123
+abstract,Abstract,unconditioned,Unconditioned,1.0,30,0.06267046928405762,0.3348611891269684,0.13846494257450104
+descriptive,Descriptive,unconditioned,Unconditioned,0.7,30,0.4789494276046753,0.7193292379379272,0.16407684981822968
+abstract,Abstract,unconditioned,Unconditioned,0.7,30,0.07037127017974854,0.352734237909317,0.1480039805173874
+descriptive,Descriptive,unconditioned,Unconditioned,0.55,30,0.3885765075683594,0.6739975810050964,0.1531982421875
+abstract,Abstract,unconditioned,Unconditioned,0.55,30,0.06413567066192627,0.34615832567214966,0.13894742727279663
+descriptive,Descriptive,unconditioned,Unconditioned,0.4,30,0.21482956409454346,0.5704116821289062,0.19044621288776398
+abstract,Abstract,unconditioned,Unconditioned,0.4,30,0.04517644643783569,0.27548953890800476,0.10762862116098404

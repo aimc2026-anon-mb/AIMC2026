@@ -1,0 +1,214 @@
+{
+  "experiment_name": "prompt-denoise-audit-expanded",
+  "workflow_path": "PROJECT_ROOT/docs/workflow/stable_audio_open.json",
+  "comfyui": {
+    "host": "127.0.0.1:8000",
+    "output_dir": "COMFYUI_ROOT/output"
+  },
+  "node_ids": {
+    "positive_text": "10",
+    "negative_text": "11",
+    "sampler": "47",
+    "save_audio": "101",
+    "latent_audio": "21"
+  },
+  "fixed_inputs": {
+    "sampler": {
+      "cfg": 8.0,
+      "steps": 60,
+      "sampler_name": "dpmpp_3m_sde_gpu",
+      "scheduler": "karras"
+    },
+    "negative_prompt": "",
+    "latent_audio": {
+      "seconds": 15.0,
+      "batch_size": 1
+    }
+  },
+  "prompt_families": [
+    {
+      "id": "descriptive",
+      "label": "Descriptive",
+      "prompts": [
+        {
+          "id": "descriptive-01",
+          "label": "Nature ambience, birds",
+          "prompt": "Nature ambience, birds",
+          "slot": 1
+        },
+        {
+          "id": "descriptive-02",
+          "label": "City soundscape, traffic, noise",
+          "prompt": "City soundscape, traffic, noise",
+          "slot": 2
+        },
+        {
+          "id": "descriptive-03",
+          "label": "Ambient synth loop",
+          "prompt": "Ambient synth loop",
+          "slot": 3
+        },
+        {
+          "id": "descriptive-04",
+          "label": "Cat purring, feline, kitty",
+          "prompt": "Cat purring, feline, kitty",
+          "slot": 4
+        },
+        {
+          "id": "descriptive-05",
+          "label": "Jazz piano chords, loop",
+          "prompt": "Jazz piano chords, loop",
+          "slot": 5
+        }
+      ],
+      "sampler_overrides": {}
+    },
+    {
+      "id": "abstract",
+      "label": "Abstract",
+      "prompts": [
+        {
+          "id": "abstract-01",
+          "label": "Solar ekphrasis",
+          "prompt": "Solar ekphrasis",
+          "slot": 1
+        },
+        {
+          "id": "abstract-02",
+          "label": "Cosmic infoldings",
+          "prompt": "Cosmic infoldings",
+          "slot": 2
+        },
+        {
+          "id": "abstract-03",
+          "label": "Colliding blackholes",
+          "prompt": "Colliding blackholes",
+          "slot": 3
+        },
+        {
+          "id": "abstract-04",
+          "label": "Fragile entropic structure",
+          "prompt": "Fragile entropic structure",
+          "slot": 4
+        },
+        {
+          "id": "abstract-05",
+          "label": "Entangled bilateral transfer functions",
+          "prompt": "Entangled bilateral transfer functions",
+          "slot": 5
+        }
+      ],
+      "sampler_overrides": {}
+    },
+    {
+      "id": "unconditioned",
+      "label": "Unconditioned",
+      "prompts": [
+        {
+          "id": "unconditioned-01",
+          "label": "Unconditioned slot 1",
+          "prompt": "",
+          "slot": 1
+        },
+        {
+          "id": "unconditioned-02",
+          "label": "Unconditioned slot 2",
+          "prompt": "",
+          "slot": 2
+        },
+        {
+          "id": "unconditioned-03",
+          "label": "Unconditioned slot 3",
+          "prompt": "",
+          "slot": 3
+        },
+        {
+          "id": "unconditioned-04",
+          "label": "Unconditioned slot 4",
+          "prompt": "",
+          "slot": 4
+        },
+        {
+          "id": "unconditioned-05",
+          "label": "Unconditioned slot 5",
+          "prompt": "",
+          "slot": 5
+        }
+      ],
+      "sampler_overrides": {
+        "cfg": 0.0
+      }
+    }
+  ],
+  "denoise_values": [
+    1.0,
+    0.7,
+    0.55,
+    0.4
+  ],
+  "seed_slots": [
+    [
+      936466550673771,
+      937150080021621,
+      713301688808005,
+      417441241092408,
+      660458076140203,
+      873534913822354
+    ],
+    [
+      467779948461085,
+      758282017860344,
+      510094380489408,
+      959546376485544,
+      844919671624663,
+      754560758249331
+    ],
+    [
+      549384717397659,
+      104602413208802,
+      247385422446336,
+      226397792656353,
+      995575270598493,
+      526088629548919
+    ],
+    [
+      398410139056662,
+      581603229148997,
+      327312407480077,
+      476864878317074,
+      916589050477114,
+      576220339838781
+    ],
+    [
+      845291948846361,
+      710378140300593,
+      554159517989115,
+      499548161013021,
+      799177406954422,
+      755127694752658
+    ]
+  ],
+  "control_family_id": "unconditioned",
+  "save_prefix_root": "audio/ComfyUI/AIMC/audits",
+  "null_samples": 1000,
+  "reproducibility": {
+    "stable_audio_open_checkpoint": {
+      "filename": "model.safetensors",
+      "sha256": "7b20458a071231aaf32613b6fbc7945f28f34dbba4f295bb49bad56f5f66b57e"
+    },
+    "t5_text_encoder": {
+      "filename": "t5_base.safetensors",
+      "sha256": "a90903540cc02cbeb7ff9f823f1a80eb778c7e22426a0e620b01c77a5ec8f5b4"
+    },
+    "comfyui": {
+      "desktop_version": "replace-with-local-version",
+      "desktop_build": "replace-with-local-build",
+      "backend_version": "replace-with-local-version"
+    },
+    "laion_clap": {
+      "model_id": "laion/clap-htsat-unfused",
+      "snapshot": "8fa0f1c6d0433df6e97c127f64b2a1d6c0dcda8a"
+    }
+  },
+  "config_path": "PROJECT_ROOT/analysis/prompt_denoise_audit.example.json"
+}

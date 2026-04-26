@@ -1,0 +1,9 @@
+source_family_id,source_family_label,target_family_id,target_family_label,denoise,n,mean_cosine_similarity,std_cosine_similarity
+descriptive,Descriptive,descriptive,Descriptive,1.0,30,0.428481787443161,0.1253964751958847
+abstract,Abstract,abstract,Abstract,1.0,30,0.23025940358638763,0.12825924158096313
+descriptive,Descriptive,descriptive,Descriptive,0.7,30,0.4186018407344818,0.11361900717020035
+abstract,Abstract,abstract,Abstract,0.7,30,0.1926022619009018,0.09658548980951309
+descriptive,Descriptive,descriptive,Descriptive,0.55,30,0.39217445254325867,0.14331623911857605
+abstract,Abstract,abstract,Abstract,0.55,30,0.1775442212820053,0.10986874252557755
+descriptive,Descriptive,descriptive,Descriptive,0.4,30,0.33645927906036377,0.1318957656621933
+abstract,Abstract,abstract,Abstract,0.4,30,0.16387006640434265,0.11039984226226807
